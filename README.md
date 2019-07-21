@@ -1,5 +1,5 @@
 # DeepRMSA
-For more details, see paper: DeepRMSA: A Deep Reinforcement Learning Framework for Routing, Modulation and Spectrum Assignment in Elastic Optical Networks
+For more details, see paper: DeepRMSA: A Deep Reinforcement Learning Framework for Routing, Modulation and Spectrum Assignment in Elastic Optical Networks (https://ieeexplore.ieee.org/document/8738827)
 
 Run Deep_RMSA_A3C.py
 
