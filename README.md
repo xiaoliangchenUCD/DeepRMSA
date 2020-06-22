@@ -7,4 +7,4 @@ K-SP-FF benchmark_NSFNET.py generates results for the KSF-FF and SP-FF algorithm
 
 *.m files are used for generated precalculated routing information (if you want to apply the algorithm to a new topology)
 
-Please contact xlichen@ucdavis.edu for any related questions or concerns.
+Please contact xlichen@ucdavis.edu for any related question or concern.
